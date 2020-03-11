@@ -1,0 +1,7 @@
+10 20 Chi
+18 17 Baltimore
+2 5 SanFran
+3 20 Seattle
+7 10 SaltLake
+8 3 Austin
+10 9 NewOrleans

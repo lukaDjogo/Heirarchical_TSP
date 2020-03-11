@@ -1,0 +1,5 @@
+10 20 Chi
+20 20 Ny
+2 7 SanFran
+3 20 Seattle
+7 10 SaltLake
